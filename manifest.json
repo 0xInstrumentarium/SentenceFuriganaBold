@@ -1,0 +1,7 @@
+{
+    "name": "Bold Target Word in Furigana",
+    "package": "bold_target_word",
+    "author": "0xInstrumentarium",
+    "version": "1.0.0",
+    "description": "Wraps the target word in the furigana field with <b> tags."
+}
